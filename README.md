@@ -18,12 +18,6 @@
 
 ---
 
-### [ SYSTEM_ACHIEVEMENTS ]
-<p align="center">
-  <!-- Troféus em modo estável e minimalista -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Andrade-Arthur&theme=darkhub&column=7&no-frame=true&no-bg=true" alt="trophies" />
-</p>
-
 ---
 
 ### [ SYSTEM_CAPACITY_GAUGE ]
@@ -37,26 +31,49 @@
 
 ---
 
+### [ TECHNOLOGICAL_CORE ]
+
+| **BACKEND / DATA** | **FRONTEND / UI** | **INFRA / OPS** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" /> | <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/DJANGO_/_FLASK-white?style=for-the-badge&logo=django&logoColor=black" /> | <img src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=black" /> | <img src="https://img.shields.io/badge/LINUX-white?style=for-the-badge&logo=linux&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/SQL_POSTGRES-white?style=for-the-badge&logo=postgresql&logoColor=black" /> | <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=black" /> | <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=black" /> |
+
+---
+
 ### [ ANALYTICS_REALTIME ]
 
+<!-- Gráfico de Atividade (Monitor Cardíaco) centralizado e grande -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrade-Arthur&theme=react-dark&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=fff&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=dark&hide_border=true&bg_color=000&title_color=fff&hide=gdshader,gdscript" />
-</p>
+<!-- Estatísticas lado a lado em uma tabela invisível -->
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&icon_color=fff" />
+    </td>
+    <td align="center" style="border: none;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=dark&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&hide=gdshader,gdscript" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### [ SYSTEM_TRAFFIC ]
-<p align="center">
-  <!-- CORREÇÃO DA COBRINHA: Syntax de imagem correta -->
-  <img src="https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<!-- Animação da Cobra baseada em contribuições reais -->
+![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZueDRhMmd6bmx4NHBqZ3ZueDRhMmd6bmx4NHBqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T9vWn3lJ2SjYy5R7/giphy.gif" width="60px" style
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZueDRhMmd6bmx4NHBqZ3ZueDRhMmd6bmx4NHBqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T9vWn3lJ2SjYy5R7/giphy.gif" width="60px" style="filter: brightness(2);" />
+  <br>
+  <code>[ DISCONNECT ] // ARTHUR_SYSTEM_V6.0 // 2024</code>
+</p>
+
+</div>
