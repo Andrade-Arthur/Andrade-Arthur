@@ -1,53 +1,61 @@
 <div align="center">
 
-<!-- HEADER MINIMALISTA ESTILO APPLE/TESLA -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=ARTHUR+ANDRADE;FULLSTACK+ENGINEER" alt="Typing SVG" />
+<!-- HEADER ANIMADO MINIMALISTA -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=ARTHUR+ANDRADE;FULLSTACK+ENGINEER;BACKEND+ARCHITECT" alt="Typing SVG" />
 
 <p align="center">
-  <code font-family="JetBrains Mono"> [ 01 ] ARCHITECT . [ 02 ] DEVELOP . [ 03 ] DEPLOY </code>
+<code> [ SYSTEM_CORE: ACTIVE ] . [ MISSION: FULLSTACK_ARCHITECTURE ] </code>
 </p>
 
 ---
 
-<!-- INTRODUÇÃO TÉCNICA -->
-### 📡 SYSTEM STATUS: ACTIVE
-**Fullstack Developer** focado em arquiteturas de alto desempenho. Especialista em construir o invisível (Backend) e refinar o tangível (Frontend). Transformando complexidade em código limpo e escalável.
-
-[📂 VIEW_PORTFOLIO_ON_RENDER](https://github.com/Andrade-Arthur) <!-- Link do seu site -->
+### 📡 [SYSTEM_STATUS]
+Engenheiro de Software focado em construir o invisível (**Backend**) e refinar o tangível (**Frontend**). Especialista em arquiteturas escaláveis, código limpo e experiências imersivas no vácuo digital.
 
 ---
 
-### 🛠️ TECHNOLOGICAL CORE
+### 🛠️ TECHNOLOGICAL_CORE
 
-| **BACKEND / DATABASE** | **FRONTEND / UI** | **INFRA / OPS** |
+| **BACKEND / DATA** | **FRONTEND / UI** | **INFRA / OPS** |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" /> | <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/DJANGO-white?style=for-the-badge&logo=django&logoColor=black" /> | <img src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=black" /> | <img src="https://img.shields.io/badge/LINUX-white?style=for-the-badge&logo=linux&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/SQL_POSTGRES-white?style=for-the-badge&logo=postgresql&logoColor=black" /> | <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=black" /> | <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/NEXT.JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black" /> | <img src="https://img.shields.io/badge/GITHUB_ACTIONS-white?style=for-the-badge&logo=githubactions&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/DOCKER-black?style=for-the-badge&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/SQL_DATABASE-black?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/DJANGO_/_FLASK-black?style=for-the-badge&logo=django&logoColor=white" /> | <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=white" /> | <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/REACT_/_NEXT.JS-black?style=for-the-badge&logo=react&logoColor=white" /> | <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> |
+
+---
+
+### ⚡ PRODUCTIVITY_LEVELS (MANUAL_OVERRIDE)
+<!-- Barras de progresso branco puro para forçar a estética fora da curva -->
+<code>PYTHON     </code> <img src="https://geps.dev/progress/92?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff" height="15" /> <code> 92% </code><br>
+<code>JAVASCRIPT </code> <img src="https://geps.dev/progress/85?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff" height="15" /> <code> 85% </code><br>
+<code>SQL_QUERY  </code> <img src="https://geps.dev/progress/80?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff" height="15" /> <code> 80% </code><br>
+<code>FULLSTACK_UI</code> <img src="https://geps.dev/progress/88?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff" height="15" /> <code> 88% </code><br>
 
 ---
 
 ### 📊 ANALYTICS_TERMINAL
-
 <div align="center">
-  <!-- Gráfico de estatísticas com tema customizado Black & White -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&hide_border=false&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&border_color=333333&bg_color=000000" />
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&hide_border=true&bg_color=000000" />
+  
+  <!-- Linguagens: Aqui eu ESCONDI o Godot para o seu Python/JS aparecerem no topo -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=transparent&title_color=ffffff&text_color=999999&hide_border=true&bg_color=000000&hide=gdshader,gdscript" />
 </div>
 
 ---
 
-### 📂 MISSION_LOG (CURRENT PROJECTS)
-
-- ☄️ **[Horror-game](https://github.com/Andrade-Arthur/Horror-game)**: High-performance logic using GDScript/Python.
-- 🌌 **[Deep-Space-Portfolio](https://github.com/Andrade-Arthur/Andrade-Arthur)**: Flask backend with immersive sensory UI.
+### 📂 MISSION_LOG (ACTIVE_REPOS)
+- ☄️ **[Horror-game](https://github.com/Andrade-Arthur/Horror-game)**: Lógica de alto desempenho em Python/GDScript.
+- 🌌 **[Space-Portfolio](https://github.com/Andrade-Arthur/Andrade-Arthur)**: Flask Backend com interface sensorial imersiva.
 
 ---
 
-<!-- FOOTER MINIMALISTA -->
+<!-- FOOTER COM O BONEQUINHO QUE VOCÊ GOSTA -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/main/static/style/coding.gif" width="60px" style="filter: invert(1) brightness(2);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZueDRhMmd6bmx4NHBqZ3ZueDRhMmd6bmx4NHBqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T9vWn3lJ2SjYy5R7/giphy.gif" width="80px" style="filter: brightness(2);" />
+  <br>
+  <code>AUTHORIZED_ACCESS // ARTHUR_ANDRADE // 2024</code>
 </p>
-<p align="center">
-  <code>AUTH
+
+</div>
