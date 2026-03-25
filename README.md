@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner (Substitua o link pela sua imagem quando subir) -->
-<img src="https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/main/static/style/space_banner.png" width="100%" />
+r (Substitua o link pela sua imagem quando subir) -->
+<img src="Sistema Arthur no cosmos estrelado" src="https://github.com/user-attachments/assets/24516dee-467e-45b5-9fa8-4c4344645b2e" width="100%" />
 
 # 🌌 ARTHUR SYSTEM INITIALIZED
 
