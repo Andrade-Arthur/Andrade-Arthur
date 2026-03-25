@@ -64,12 +64,10 @@
 
 ---
 
-### [ SYSTEM_TRAFFIC ]
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
-</p>
 
+### [ SYSTEM_TRAFFIC ]
 <!-- Animação da Cobra baseada em contribuições reais -->
+![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
