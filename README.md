@@ -69,6 +69,8 @@
   ![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
 </p>
 
+<!-- Animação da Cobra baseada em contribuições reais -->
+
 ---
 
 <p align="center">
