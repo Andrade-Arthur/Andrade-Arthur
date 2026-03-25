@@ -1,12 +1,12 @@
 <div align="center">
 
-r (Substitua o link pela sua imagem quando subir) -->
-<img src="Sistema Arthur no cosmos estrelado" src="https://github.com/user-attachments/assets/24516dee-467e-45b5-9fa8-4c4344645b2e" width="100%" />
+<!-- Banner Espacial Garantido -->
+<img src="https://i.imgur.com/K9C86aG.png" width="100%" />
 
 # 🌌 ARTHUR SYSTEM INITIALIZED
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Backend+Specialist;Space+Explorer;Clean+Code+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Backend+Specialist;Architecture+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,43 +15,37 @@ r (Substitua o link pela sua imagem quando subir) -->
 Especialista em construir arquiteturas robustas e interfaces fluidas em meio ao vácuo digital. 
 Focado em escalabilidade, performance e código limpo.
 
-[🌐 Explore meu Portfólio Imersivo](LINK_DO_SEU_SITE_NO_RENDER_AQUI)
+[🌐 Explore meu Portfólio Imersivo](https://github.com/Andrade-Arthur) <!-- Troque pelo link do seu site no Render depois -->
 
 ---
 
 ### 🛠️ CORE_CAPACITIES
 
-<!-- Badges Minimalistas (Preto e Branco para combinar com o site) -->
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<!-- Badges Estáveis -->
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ---
 
 ### 📊 ANALYTICS
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=visionary&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&border_color=333333&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=visionary&bg_color=000000&title_color=ffffff&text_color=999999&border_color=333333&hide_border=false" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=999999&bg_color=000000" />
+</p>
 
 ---
 
-### 📂 RECENT_MISSIONS
-<!-- Aqui você pode listar seus repositórios principais com emojis de estrelas -->
-✨ **[Horror-game](https://github.com/Andrade-Arthur/Horror-game)** - GDScript / Python based engine.
-✨ **[Portfolio-Pro](https://github.com/Andrade-Arthur/Andrade-Arthur)** - Flask / Deep Space UI.
+<!-- GIF de programador sênior estável -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB3ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T9vWn3lJ2SjYy5R7/giphy.gif" width="100px" style="filter: brightness(1.5);" />
 
----
-
-<img src="https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/main/static/style/coding.gif" width="100px" />
 <br>
 <sub>End of transmission.</sub>
 
