@@ -4,8 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=ARTHUR+ANDRADE;SYSTEM_ACCESS_GRANTED;EXECUTING_CORE_V4.0" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-ARTHUR_VOID-white?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-white?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://img.shields.io/badge/OS-LINUX-white?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-PROFILE_ACTIVE-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF00?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -21,10 +22,10 @@
 
 | COMPONENT | RESOURCE_ALLOCATION | LEVEL |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" /> | <img src="https://progress-bar.dev/92/?scale=100&title=none&width=240&color=ffffff&suffix=%20" /> | `92%` |
-| <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://progress-bar.dev/85/?scale=100&title=none&width=240&color=ffffff&suffix=%20" /> | `85%` |
-| <img src="https://img.shields.io/badge/SQL_DATABASE-white?style=for-the-badge&logo=postgresql&logoColor=black" /> | <img src="https://progress-bar.dev/80/?scale=100&title=none&width=240&color=ffffff&suffix=%20" /> | `80%` |
-| <img src="https://img.shields.io/badge/INFRA_DOCKER-white?style=for-the-badge&logo=docker&logoColor=black" /> | <img src="https://progress-bar.dev/90/?scale=100&title=none&width=240&color=ffffff&suffix=%20" /> | `90%` |
+| <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" /> | <img src="https://img.shields.io/badge/-██████████████████████░░-white?style=flat-square&labelColor=black" height="20" /> | `92%` |
+| <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/-██████████████████░░░░░-white?style=flat-square&labelColor=black" height="20" /> | `85%` |
+| <img src="https://img.shields.io/badge/SQL_DATABASE-white?style=for-the-badge&logo=postgresql&logoColor=black" /> | <img src="https://img.shields.io/badge/-████████████████░░░░░░░-white?style=flat-square&labelColor=black" height="20" /> | `80%` |
+| <img src="https://img.shields.io/badge/INFRA_DOCKER-white?style=for-the-badge&logo=docker&logoColor=black" /> | <img src="https://img.shields.io/badge/-████████████████████░░░-white?style=flat-square&labelColor=black" height="20" /> | `90%` |
 
 ---
 
@@ -42,4 +43,20 @@
 ### [ ANALYTICS_REALTIME ]
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&icon_color=fff&cache_buster=1" />
-  <img
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade-Arthur&layout=compact&theme=dark&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&hide=gdshader,gdscript&cache_buster=1" />
+</div>
+
+---
+
+### [ SYSTEM_TRAFFIC ]
+![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg?cache_buster=1)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZueDRhMmd6bmx4NHBqZ3ZueDRhMmd6bmx4NHBqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/L1T9vWn3lJ2SjYy5R7/giphy.gif" width="60px" style="filter: brightness(2);" />
+  <br>
+  <code>[ DISCONNECT ] // ARTHUR_SYSTEM_V4.0 // 2024</code>
+</p>
+
+</div>
