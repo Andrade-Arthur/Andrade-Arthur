@@ -14,9 +14,12 @@
 ### [ TERMINAL_LOG ]
 > `>> INITIALIZING FULLSTACK ARCHITECTURE...`
 > `>> LOADING BACKEND MODULES [PYTHON/POSTGRES/DOCKER]`
-> `>> STATUS: READY_TO_DEPLOY`
+> `>> STATUS: LIVE_ON_RENDER`
 
----
+<br>
+
+<!-- BOTÃO ESTRATÉGICO PARA O PORTFÓLIO -->
+[![PORTFOLIO](https://img.shields.io/badge/EXECUTE-LIVE_PORTFOLIO-white?style=for-the-badge&logo=render&logoColor=black)](https://meu-portfolio-pro.onrender.com)
 
 ---
 
@@ -38,17 +41,16 @@
 | <img src="https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=black" /> | <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker&logoColor=black" /> |
 | <img src="https://img.shields.io/badge/DJANGO_/_FLASK-white?style=for-the-badge&logo=django&logoColor=black" /> | <img src="https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=black" /> | <img src="https://img.shields.io/badge/LINUX-white?style=for-the-badge&logo=linux&logoColor=black" /> |
 | <img src="https://img.shields.io/badge/SQL_POSTGRES-white?style=for-the-badge&logo=postgresql&logoColor=black" /> | <img src="https://img.shields.io/badge/TYPESCRIPT-white?style=for-the-badge&logo=typescript&logoColor=black" /> | <img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/NEXT.JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black" /> | <img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=black" /> |
 
 ---
 
 ### [ ANALYTICS_REALTIME ]
 
-<!-- Gráfico de Atividade (Monitor Cardíaco) centralizado e grande -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrade-Arthur&theme=react-dark&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true&area=true" />
 </p>
 
-<!-- Estatísticas lado a lado em uma tabela invisível -->
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
@@ -62,11 +64,10 @@
 
 ---
 
-
 ### [ SYSTEM_TRAFFIC ]
-<!-- Animação da Cobra baseada em contribuições reais -->
-![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  ![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
+</p>
 
 ---
 
