@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ### [ SYSTEM_CAPACITY_GAUGE ]
 
 | COMPONENT | RESOURCE_ALLOCATION | LEVEL |
@@ -43,12 +41,10 @@
 
 ### [ ANALYTICS_REALTIME ]
 
-<!-- Gráfico de Atividade (Monitor Cardíaco) centralizado e grande -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrade-Arthur&theme=react-dark&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true&area=true" />
 </p>
 
-<!-- Estatísticas lado a lado em uma tabela invisível -->
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
@@ -62,11 +58,10 @@
 
 ---
 
-
 ### [ SYSTEM_TRAFFIC ]
-<!-- Animação da Cobra baseada em contribuições reais -->
-![Snake animation](https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Andrade-Arthur/Andrade-Arthur/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
