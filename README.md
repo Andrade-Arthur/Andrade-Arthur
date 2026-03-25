@@ -52,5 +52,6 @@
 <p align="center">
   <code>AUTHENTICATED_BY_ARTHUR_SYSTEM // 2024</code>
 </p>
-
+### 🕹️ SYSTEM_TRAFFIC (CONTRIBUTIONS)
+<img src="https://github-readme-stats.vercel.app/api/snake.svg?github_user_name=Andrade-Arthur&color_dot=%23161b22&color_snake=%23ffffff&color_pixel=%2300ff00" width="100%" />
 </div>
