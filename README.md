@@ -39,7 +39,12 @@
 | <img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/NEXT.JS-white?style=for-the-badge&logo=nextdotjs&logoColor=black" /> | <img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=black" /> |
 
 ---
+### [ SYSTEM_ACHIEVEMENTS ]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andrade-Arthur&theme=flat&column=7&margin-w=15&no-bg=true&no-frame=true" />
+</div>
 
+---
 ### [ ANALYTICS_REALTIME ]
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrade-Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&icon_color=fff&cache_buster=1" />
